@@ -12,7 +12,7 @@
   <div class="mobileNav_open">
     <div class="mobileNav_opacity"></div>
     <div class="mobileNav__content">
-      <img class="mobileNav__img" src="./assets/images/icon-menu-close.svg" alt="menu close">
+      <img class="mobileNav__img" src="./assets/images/icon-menu-close.svg" alt="menu close" onclick=handleClose()>
       <ul class="mobileNav__list">
         <li class="mobileNav__item"><a href="/">Home</a></li>
         <li class="mobileNav__item"><a href="/">New</a></li>
@@ -28,7 +28,7 @@
         <img class="logo__img" src="./assets/images/logo.svg" alt="logo">
       </div>
       <div class="mobileNav_closed">
-        <img class="mobileNav__img" src="./assets/images/icon-menu.svg" alt="menu hamburger" onclick="handleToggle">
+        <img class="mobileNav__img" src="./assets/images/icon-menu.svg" alt="menu hamburger" onclick=handleOpen()>
       </div>
       <div class="desktopNav">
         <ul class="desktopNav__list">
@@ -95,5 +95,6 @@
       </div>
     </section>
   </div>
+  <script src="./script.js" charset="text/javascript"></script>
 </body>
 </html>

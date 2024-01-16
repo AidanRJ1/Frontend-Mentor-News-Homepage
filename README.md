@@ -25,6 +25,7 @@ Users should be able to:
 
 ![](./News-Desktop-Screenshot.jpg)
 ![](./News-Mobile-Screenshot.jpg)
+![](./News-Menu-Screenshot.jpg)
 
 ### Links
 
