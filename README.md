@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://your-solution-url.com
-- Live Site URL: https://your-live-site-url.com
+- Solution URL: [View Code](https://github.com/AidanRJ1/Frontend-Mentor-News-Homepage)
+- Live Site URL: [View Website](https://aidanrj1.github.io/Frontend-Mentor-News-Homepage/)
 
 ## My process
 
